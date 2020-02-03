@@ -32,7 +32,7 @@ __Prerequisites__:
 
   ```
   git config --global user.email "joannakl@cs.nyu.edu"
-  git config --global user.name "JoannaKl"```<br>
+  git config --global user.name "JoannaKl"
   ```
   </p></details>
 
